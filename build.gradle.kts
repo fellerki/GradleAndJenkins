@@ -1,6 +1,5 @@
 plugins {
     id("java")
-    id("org.jenkins-ci.jpi") version "0.10.0"
 }
 
 group = "org.example"
